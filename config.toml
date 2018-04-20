@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://koalaggwp.github.io/website/"
 languageCode = "en"
 publishDir = "docs"
 theme = "hyde-hyde-master"
