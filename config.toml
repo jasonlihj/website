@@ -1,7 +1,7 @@
 ## Basic Configuration
 baseurl = "https://example.com/"
 languageCode = "en"
-
+publishDir = "docs"
 theme = "hyde-hyde-master"
 
 ## Hugo Built-in Features
